@@ -1,5 +1,14 @@
 # Hijab
-![Bismillah](./Files/SVG/Bismillah.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+<div class="dark-mode">
+
+![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+<div class="light-mode">
+
+![BismillahLight](./Files/SVG/BismillahLight.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
 
 ## Hijab's Purposelessness
 * I'm so done with seat-belts. They're a waste of time.
@@ -46,9 +55,9 @@
 
 <!-- tabs:start -->
 
-### **<b>33:59</b>**
+### **<strong>33:59</strong>**
 
-<h3><p style="text-align:center;">يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَٰبِيبِهِنَّ ۚ <mark>ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ</mark> ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا</p></h3>
+<h3><p style="text-align:center;">يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَٰبِيبِهِنَّ ۚ <mark>ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ</mark> ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا ۝</p></h3>
 
 ***
 

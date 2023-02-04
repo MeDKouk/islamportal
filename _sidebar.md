@@ -1,12 +1,16 @@
 * **Atheism**
    * [Atheism and Mathematics](atheism-and-mathematics.md)
    * [Atheism and Morality](atheism-and-morality.md)
+* **Deceptive Tactics**
+   * [Addressing The Refutation](addressing-the-refutation.md)
 * **Quran - Contradictions**
    * [Is Iblis an angel or a jinn?](is-iblis-an-angel-or-a-jinn.md)
    * [Was Noah's son drowned or saved?](was-noah's-son-drowned-or-saved.md)
    * [Was Pharaoh drowned or saved?](was-pharaoh-drowned-or-saved.md)
 * **Quran - Scientific Errors**
    * [Ant Communication](ant-communication.md)
+   * [Billions of Names](billions-of-names.md)
+   * [Brains in Breasts](brains-in-breasts.md)
 * **Women**
    * [Hijab](hijab.md)
 * **Test**

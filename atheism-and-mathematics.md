@@ -1,5 +1,14 @@
 # ♾️ Atheism and Mathematics
-![Bismillah](./Files/SVG/Bismillah.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+<div class="dark-mode">
+
+![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+<div class="light-mode">
+
+![BismillahLight](./Files/SVG/BismillahLight.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
 
 Refutation of the irrational and illogical nonsense of atheism has been undergoing all shapes and colors; using academic papers and articles to refute atheism, trying to prove Allah (ﷻ)'s existence and divinity, and clarifying that Islam is the only correct way of life accepted by Allah (ﷻ). Here, we do something else.
 
@@ -13,10 +22,16 @@ Since atheism is the concept of rejection of Allah (ﷻ)'s existence, it implies
 
 Infinity and 0 are two very important concepts in mathematics, there is no shade of doubt about this, so to reject one and to misunderstand the other is not very helpful in developing mathematics as a field of science, as these two concepts are pretty fundamental. If atheists claim that there is no Allah (ﷻ), they would have to reject the concept of infinity, for we, as Muslims, believe that Allah (ﷻ) is limitless in all of His attributes, and our inability to comprehend His infinite nature is due to our finite nature, since the finite can't hold enough knowledge of the infinite:
 
-| **[Quran 112:4](<https://quranx.com/112.4>)** |
-| :---: |
-| وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ ۝ |
-| Nor is there to Him any equivalent. |
+<!-- tabs:start -->
+
+### **<strong>112:4</strong>**
+<h3><p style="text-align:center;">وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ ۝</p></h3>
+
+***
+
+<p style="text-align:center;">Nor is there to Him any equivalent.</p>
+
+<!-- tabs:end -->
 
 With that being said, we'll now move on to tell you that atheists reject the concept of infinity, since the main reason why they reject Allah (ﷻ)'s existence is because they cannot comprehend it, thus simply rejecting it. We could say that if an atheist tells you that the set of real numbers goes from negative infinity to positive infinity, he would be lying. If a person rejects Allah (ﷻ)'s existence because he is unable to understand Allah (ﷻ)'s infinite nature, then he would have to reject the fact that numbers have no end. But the catch here is that if we put a limit to numbers, then this would destroy everything mathematics is built upon; every concept, every universally agreed-upon fact and statement, every piece of induction and elsewhat.
 

@@ -1,9 +1,19 @@
 # Ant Communication
-![Bismillah](./Files/SVG/Bismillah.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+<div class="dark-mode">
+
+![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+<div class="light-mode">
+
+![BismillahLight](./Files/SVG/BismillahLight.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+
 ## Allegation
 <!-- tabs:start -->
 
-### **<b>27:18-19</b>**
+### **<strong>27:18-19</strong>**
 <h3><p style="text-align:center;">حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ <mark>قَالَتْ</mark> نَمْلَةٌ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ ۝ فَتَبَسَّمَ ضَاحِكًا مِّن <mark>قَوْلِهَا</mark> وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّٰلِحِينَ ۝</p></h3>
 
 ***
@@ -29,7 +39,7 @@ Not only do ants communicate by sound, but even termites are specifically known 
 Even if that absolutely ends the argument right there, we'll take it a step further; Muslim scholars have stated that due to the verses preceding **[27:18-19](<https://quranx.com/27.18-19>)**, it can be strongly adduced that these are winged ants or possible winged termites:
 <!-- tabs:start -->
 
-### **<b>27:16</b>**
+### **<strong>27:16</strong>**
 <h3><p style="text-align:center;">وَوَرِثَ سُلَيْمَٰنُ دَاوُۥدَ ۖ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ <mark>ٱلطَّيْرِ</mark> وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ ۝</p></h3>
 
 ***
@@ -41,11 +51,16 @@ Even if that absolutely ends the argument right there, we'll take it a step furt
 The word "tayr (طير)" implies any winged creature that has the ability to fly. This word literally means to fly, as the words "ta'ir (طائر)" and "ta'irah (طائرة)," meaning "bird" and "airplane," also derive from the same root of "tayr" in the Arabic language.
 
 Those "naml" had two wings, thus they were categorized as "tayr." I use the word "naml" instead of "ant" and "tayr" instead of "bird," since the English translations have failed to capture these linguistic nuances which must be explained:
+<!-- tabs:start -->
 
-| **Tafsir al-Qurtubi (27:18)** |
-| :---: |
-| كان للنملة جناحان فصارت من الطير، فلذلك علم منطقها ولولا ذلك لما علمه.‏ |
-| That ant had two wings, becoming one of the Tayr, thus he knew her speech, and without that he wouldn't have known it. |
+### **<strong>Tafsir al-Qurtubi (27:18)</strong>**
+<h3><p style="text-align:center;">كان للنملة جناحان فصارت من الطير، فلذلك علم منطقها ولولا ذلك لما علمه.‏</p></h3>
+
+***
+
+<p style="text-align:center;">That ant had two wings, becoming one of the Tayr, thus he knew her speech, and without that he wouldn't have known it.</p>
+
+<!-- tabs:end -->
 
 It is well known that termites communicate by sound and this does not require any posting of a research paper. What is interesting to note is that wings in ants is a sign of unmated males and females, as they are called "winged reproductive" or "swarmer." This is because they leave their mounds en masse to mate. Hence, the verse mentions that these ants are not in their mounds but out in the open. This verse uses the feminine verb "qalat (قالت)," meaning "she said," regarding the ant that warned the others. Thus, it was perhaps a winged, unmated queen.
 

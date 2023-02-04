@@ -1,19 +1,13 @@
-![Bismillah](./Files/SVG/Bismillah.svg 'بِسْمِ ٱللهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ :no-zoom')
+<div class="dark-mode">
 
-<strong>This is an open dialog window</strong>
+![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
 
-<b>This is an open dialog window</b>
+</div>
+<div class="light-mode">
 
-This is an open dialog window
+![BismillahLight](./Files/SVG/BismillahLight.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
 
-> [!TIP|label:|className:Quran|iconVisibility:hidden|labelVisibility:hidden]
-> <h3><p style="text-align:center;">يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌ شِدَادٌ <mark>لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ</mark> ۝</p></h3>
->
-> ***
->
-> <p style="text-align:center;">O ye who believe! Ward off from yourselves and your families a Fire whereof the fuel is men and stones, over which are set angels strong, severe, <mark>who resist not Allah in that which He commandeth them, but do that which they are commanded.</mark></p>
-
-***
+</div>
 
 <!-- tabs:start -->
 
@@ -24,9 +18,18 @@ This is an open dialog window
 
 <p style="text-align:center;">O ye who believe! Ward off from yourselves and your families a Fire whereof the fuel is men and stones, over which are set angels strong, severe, <mark>who resist not Allah in that which He commandeth them, but do that which they are commanded.</mark></p>
 
+<a href="https://quranx.com/66.6?hl=لَّا%20يَعْصُونَ%20ٱللَّهَ%20مَآ%20أَمَرَهُمْ%20وَيَفْعَلُونَ%20مَا%20يُؤْمَرُونَ"><h4><p style="text-align:right;">Quran - At-Tahrim 66:6</p></h4></a>
+
 <!-- tabs:end -->
 
-<a href="https://quranx.com/66.6?hl=لَّا%20يَعْصُونَ%20ٱللَّهَ%20مَآ%20أَمَرَهُمْ%20وَيَفْعَلُونَ%20مَا%20يُؤْمَرُونَ"><h4><p style="text-align:right;">Quran - At-Tahrim 66:6</p></h4></a>
+
+
+
+
+
+
+
+
 
 <!-- tabs:start -->
 
@@ -63,6 +66,8 @@ This is an open dialog window
 <p style="text-align:center;">Any group of people that assemble in <mark>one of the houses of Allah</mark> to recite the Book of Allah, learning and teaching it, tranquility will descend upon them, mercy will engulf them, angels will surround them and Allah will make mention of them to those (the angels) in His proximity.</p>
 
 <!-- tabs:end -->
+
+
 
 https://quranx.com/hadith/Muslim/Reference/Hadith-2699a?hl=بَيْتٍ%20مِنْ%20بُيُوتِ%20اللَّهِ,the%20house%20among%20the%20houses%20of%20Allah%20(mosques)
 

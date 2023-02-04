@@ -1,35 +1,65 @@
 # 🧪 Test
-![Bismillah](./Files/SVG/Bismillah.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+<div class="dark-mode">
+
+![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+<div class="light-mode">
+
+![BismillahLight](./Files/SVG/BismillahLight.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
 
 ## Chat
 <!-- chat:start -->
-<!-- title:The "100% Nigga" Incident -->
+<!-- title:Goofy Moment -->
 ### **MeD**
-hello
+Hello!
 
 ### **Purse**
-nigga nigga nigga nigga nigga nigga nigga, i'm <mark>100% nigga</mark>
+i hate <mark>black people</mark>
 
 ### **MeD**
-kys
+you didn't really have to do it like that bruhh 💀💀💀
 <!-- chat:end -->
 
-## Flexible Alerts
-
 > [!NOTE]
-> Note.
+> * Markdown doesn't work in the chat, use of HTML is required.
+>
+> * `<` and `>` must be met with their HTML entities; `&lt;` and `&gt;`, respectively.
+>
+> * Preset users are set in the `index.html` file.
+>
+> * Available preset users are: `MeD` and `Purse`.
 
-> [!COMMENT]
-> Comment.
+## Flexible Alerts
+> [!NOTE]
+> `> [!NOTE]`
 
 > [!TIP]
-> Tip.
+> `> [!TIP]`
 
 > [!WARNING]
-> Warning.
+> `> [!WARNING]`
 
 > [!ATTENTION]
-> Attention.
+> `> [!ATTENTION]`
+
+## Footnotes
+Footnote number one. [^1]
+
+Footnote number two. [^2]
+
+## Mark
+<markgreen>Green!</markgreen> - `<markgreen>`
+
+<markpink>Pink!</markpink> - `<markpink>`
+
+<markblue>Blue!</markblue> - `<markblue>`
+
+<markred>Red!</markred> - `<markred>`
+
+<mark>Mark.</mark> - `<mark>`
 
 ## Mermaid
 ```mermaid
@@ -48,28 +78,25 @@ kys
     a --> b
 ```
 
-## PDF Embed
-```pdf
-./Files/تخلص.pdf
+## Prefers Color Scheme [Bismillah]
+```
+<div class="dark-mode">
+
+![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+<div class="light-mode">
+
+![BismillahLight](./Files/SVG/BismillahLight.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
 ```
 
-## Tabs
-<!-- tabs:start -->
-### **<b>Bukhari</b>**
-<h3><p style="text-align:center;">إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ</p></h3>
+## WikiLink
+**[[iblis-angel-jinn#refutation|Is Iblis an angel or a jinn? - Refutation]]**
 
 ***
 
-<p style="text-align:center;">The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for.</p>
+[^1]: This is the first footnote.
 
-### **<b>Muslim</b>**
-Bonjour!
-<!-- tabs:start -->
-### **Roma**
-Niggerwigger
-<!-- tabs:end -->
-<!-- tabs:end -->
-
-
-## WikiLink
-[[iblis-angel-jinn#refutation|Is Iblis an angel or a jinn? - Refutation]]
+[^2]: Here's one with multiple paragraphs and code.

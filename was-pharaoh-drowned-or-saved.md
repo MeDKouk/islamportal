@@ -1,5 +1,14 @@
 # Was Pharaoh drowned or saved?
-![Bismillah](./Files/SVG/Bismillah.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+<div class="dark-mode">
+
+![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+<div class="light-mode">
+
+![BismillahLight](./Files/SVG/BismillahLight.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
 
 ## Allegation
 > Was Pharaoh drowned or saved?
@@ -7,7 +16,7 @@
 ### Drowned
 <!-- tabs:start -->
 
-### **<b>17:103</b>**
+### **<strong>17:103</strong>**
 <h3><p style="text-align:center;">فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَ<mark>أَغْرَقْنَٰهُ</mark> وَمَن مَّعَهُۥ جَمِيعًا ۝</p></h3>
 
 ***
@@ -15,7 +24,7 @@
 <p style="text-align:center;">And he wished to scare them from the land, but We <mark>drowned him</mark> and those with him, all together.</p>
 
 
-### **<b>28:40</b>**
+### **<strong>28:40</strong>**
 <h3><p style="text-align:center;">فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَ<mark>نَبَذْنَٰهُمْ فِى ٱلْيَمِّ</mark> ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ ۝</p></h3>
 
 ***
@@ -23,7 +32,7 @@
 <p style="text-align:center;">Therefor We seized him and his hosts, and <mark>abandoned them unto the sea</mark>. Behold the nature of the consequence for evil-doers!</p>
 
 
-### **<b>43:55</b>**
+### **<strong>43:55</strong>**
 <h3><p style="text-align:center;">فَلَمَّآ ءَاسَفُونَا ٱنتَقَمْنَا مِنْهُمْ <mark>فَأَغْرَقْنَٰهُمْ</mark> أَجْمَعِينَ ۝</p></h3>
 
 ***
@@ -34,7 +43,7 @@
 
 ### Saved
 <!-- tabs:start -->
-### **<b>10:90-92</b>**
+### **<strong>10:90-92</strong>**
 <h3><p style="text-align:center;">وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ ۝ ءَآلْـَٰٔنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ ۝ فَٱلْيَوْمَ <mark>نُنَجِّيكَ بِبَدَنِكَ</mark> لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً ۚ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ عَنْ ءَايَٰتِنَا لَغَٰفِلُونَ ۝</p></h3>
 
 ***
