@@ -3,6 +3,8 @@
    * [Atheism and Morality](atheism-and-morality.md)
 * **Deceptive Tactics**
    * [Addressing The Refutation](addressing-the-refutation.md)
+* **Muhammad (ﷺ) - Refutations**
+   * [The Prophet (ﷺ) is a Fat Dwarf](the-prophet-is-a-fat-dwarf.md)
 * **Quran - Contradictions**
    * [Is Iblis an angel or a jinn?](is-iblis-an-angel-or-a-jinn.md)
    * [Was Noah's son drowned or saved?](was-noah's-son-drowned-or-saved.md)
@@ -11,6 +13,10 @@
    * [Ant Communication](ant-communication.md)
    * [Billions of Names](billions-of-names.md)
    * [Brains in Breasts](brains-in-breasts.md)
+   * [Earth Created in Six Days](earth-created-in-six-days.md)
+   * [Humans Turned Apes](humans-turned-apes.md)
+   * [Male and Female Fruits](male-and-female-fruits.md)
+   * [Mooing Calf Statue](mooing-calf-statue.md)
 * **Women**
    * [Hijab](hijab.md)
 * **Test**

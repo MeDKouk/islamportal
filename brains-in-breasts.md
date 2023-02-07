@@ -32,4 +32,4 @@ It's not taken literally, it simply represents the innermost feelings, thoughts 
 
 Commentaries on this verse also show that the reference to "the breasts" is concerning the "innermost secrets." The Quran is not saying people have brains in their hearts, and the critic must take us for fools if he thinks people cannot see it as an idiom.
 
-The Quran is not in error, but the critic is being the unreasonable fool he keeps being.
+The Quran is not in error, but the critic is being the unreasonable fool he keeps being. The mere thought about brains being inside chests to him is enough proof of his retardation.

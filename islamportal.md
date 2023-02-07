@@ -9,68 +9,56 @@
 
 </div>
 
+## Copyright
+There is no copyright on Islamic materials.
+
+First and foremost, we wish to point out that there is no such thing as "intellectual copyright" in Islam. A person cannot quote Quran and Sunnah or anything related to this religion and claim it for himself, this religion belongs to Allah (ﷻ) alone:
 <!-- tabs:start -->
 
-### **<strong>66:6</strong>**
-<h3><p style="text-align:center;">يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌ شِدَادٌ <mark>لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ</mark> ۝</p></h3>
+### **<strong>3:19</strong>**
+<h3><p style="text-align:center;">إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ ۝</p></h3>
 
 ***
 
-<p style="text-align:center;">O ye who believe! Ward off from yourselves and your families a Fire whereof the fuel is men and stones, over which are set angels strong, severe, <mark>who resist not Allah in that which He commandeth them, but do that which they are commanded.</mark></p>
-
-<a href="https://quranx.com/66.6?hl=لَّا%20يَعْصُونَ%20ٱللَّهَ%20مَآ%20أَمَرَهُمْ%20وَيَفْعَلُونَ%20مَا%20يُؤْمَرُونَ"><h4><p style="text-align:right;">Quran - At-Tahrim 66:6</p></h4></a>
+<p style="text-align:center;">Truly, the religion with Allah is Islam.</p>
 
 <!-- tabs:end -->
 
-
-
-
-
-
-
-
-
-
+We, as Muslims, are commanded to convey this religion without seeking earthly rewards or special mentions from other people, for the reward we seek for conveying this religion should only be sought from Allah (ﷻ):
 <!-- tabs:start -->
 
-### **<strong>Muslim 666</strong>**
-<h3><p style="text-align:center;">مَنْ تَطَهَّرَ فِي بَيْتِهِ ثُمَّ مَشَى إِلَى <mark>بَيْتٍ مِنْ بُيُوتِ اللَّهِ</mark> لِيَقْضِيَ فَرِيضَةً مِنْ فَرَائِضِ اللَّهِ كَانَتْ خَطْوَتَاهُ إِحْدَاهُمَا تَحُطُّ خَطِيئَةً وَالأُخْرَى تَرْفَعُ دَرَجَةً</p></h3>
+### **<strong>36:17</strong>**
+<h3><p style="text-align:center;">وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ ۝</p></h3>
 
 ***
 
-<p style="text-align:center;">He who purified himself in his house, and then he walked to <mark>one of the houses of Allah</mark> for the sake of performing a Fard (obligatory act) out of the Fara'id (obligatory acts) of Allah, both his steps (would be significant) as one of them would obliterate his sin and the second one would raise his status.</p>
-
-<!-- tabs:start -->
-
-### **<b>Sahih Muslim (666) | صحيح مسلم (٦٦٦)</b>**
-<p style="text-align:center;">Book 5 | Hadith 357</p>
-
-<!-- tabs:end -->
+<p style="text-align:center;">And our duty is only to convey plainly (the Message).</p>
 
 
-
-
-
-
-
-
-
-
-
-
-### **<strong>Muslim 2699a | Ibn Majah 225</strong>**
-<h3><p style="text-align:center;">وَمَا اجْتَمَعَ قَوْمٌ فِي <mark>بَيْتٍ مِنْ بُيُوتِ اللَّهِ</mark> يَتْلُونَ كِتَابَ اللَّهِ وَيَتَدَارَسُونَهُ بَيْنَهُمْ إِلاَّ نَزَلَتْ عَلَيْهِمُ السَّكِينَةُ وَغَشِيَتْهُمُ الرَّحْمَةُ وَحَفَّتْهُمُ الْمَلاَئِكَةُ وَذَكَرَهُمُ اللَّهُ فِيمَنْ عِنْدَهُ</p></h3>
+### **<strong>26:109</strong>**
+<h3><p style="text-align:center;">وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ ۝</p></h3>
 
 ***
 
-<p style="text-align:center;">Any group of people that assemble in <mark>one of the houses of Allah</mark> to recite the Book of Allah, learning and teaching it, tranquility will descend upon them, mercy will engulf them, angels will surround them and Allah will make mention of them to those (the angels) in His proximity.</p>
+<p style="text-align:center;">No reward do I ask of you for it (my Message), my reward is only from the Lord of the Worlds.</p>
 
 <!-- tabs:end -->
 
+Secondly, the confusion most people have is that one may be compensated financially for producing content for his effort in production, etc., however, once the product is brought by the buyer he has the right of disposal to do as he wishes with the CD, DVD, book, etc. This includes to copy the material and distribute it freely if he wishes. The original seller cannot stipulate any conditions on the buyer once the goods has left his hands.
 
+Finally, "copyright" is an innovation of the non-Muslims; if we look to our Islamic history, we do not find our scholars copyrighting their works, rather they made it available for the Muslim brotherhood, so that they could benefit from the knowledge. Unfortunately, with the age of technology, some Muslims have started to practice something that which never existed in Islam and are following the innovation of copyright.
 
-https://quranx.com/hadith/Muslim/Reference/Hadith-2699a?hl=بَيْتٍ%20مِنْ%20بُيُوتِ%20اللَّهِ,the%20house%20among%20the%20houses%20of%20Allah%20(mosques)
+This is a green light for reproduction. You have the right to do as you wish with my works, as long as they're in favor of sending awareness about Islam.
 
-https://quranx.com/hadith/IbnMajah/Reference/Hadith-225?hl=بَيْتٍ%20مِنْ%20بُيُوتِ%20اللَّهِ,one%20of%20the%20houses%20of%20Allah
+<h1><p style="text-align:center;">Allah (ﷻ) is the Greatest! • !اللّٰه أكبر</p></h1>
 
-https://quranx.com/hadith/Muslim/Reference/Hadith-666?hl=بَيْتٍ%20مِنْ%20بُيُوتِ%20اللَّهِ,one%20of%20the%20houses%20of%20Allah
+<div class="dark-mode">
+
+![ShahadahDark](./Files/SVG/ShahadahDark.svg 'There is no god except Allah (ﷻ). Muhammad (ﷺ) is the Messenger of Allah (ﷻ). :no-zoom')
+
+</div>
+<div class="light-mode">
+
+![ShahadahLight](./Files/SVG/ShahadahLight.svg 'There is no god except Allah (ﷻ). Muhammad (ﷺ) is the Messenger of Allah (ﷻ). :no-zoom')
+
+</div>

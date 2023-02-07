@@ -1,4 +1,4 @@
-# 🧪 Test
+# 📤 Submission Guidelines
 <div class="dark-mode">
 
 ![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
@@ -46,7 +46,7 @@ you didn't really have to do it like that bruhh 💀💀💀
 > `> [!ATTENTION]`
 
 ## Footnotes
-Footnote number one. [^1]
+Footnote number one.
 
 Footnote number two. [^2]
 
@@ -97,6 +97,6 @@ Footnote number two. [^2]
 
 ***
 
-[^1]: This is the first footnote.
+[^1]: Still boggles my mind how they made a "pregnant man" emoji, but still can't properly implement actual useful Arabic terms like "Alayhis-Salam (عليه السلام)," smh.
 
 [^2]: Here's one with multiple paragraphs and code.

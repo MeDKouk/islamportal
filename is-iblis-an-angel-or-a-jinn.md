@@ -91,7 +91,7 @@ For another example, I can say in Arabic:
 This sentence employs a use of the Arabic word "illa (إلا)," translated as "except." In English, it would be more suitable to translate this as a new sentence:
 > "All the people left. Only a dog remained."
 
-Similarly in the Quran; when Allah (ﷻ) addressed the angels, Iblis was present among them, but it is not required that he be mentioned separately in Arabic. Therefore, according to that sentence, Iblis may be an angel or may not be an angel, but we come to know from **[7:12](<https://quranx.com/7.12>)**, **[18:50](<https://quranx.com/18.50>)** and  **[38:76](<https://quranx.com/38.76>)** that Iblis was a jinn, made out of fire.
+Similarly in the Quran; when Allah (ﷻ) addressed the angels, Iblis was present among them, but it is not required that he be mentioned separately in Arabic. Therefore, according to that sentence, Iblis may be an angel or may not be an angel, but we come to know from **7:12**, **18:50** and  **38:76** that Iblis was a jinn, made out of fire.
 
 In addition; jinns, just like human beings, have free will, and they may or may not obey Allah (ﷻ)'s orders. Angels, in the other hand, have no free will in the sense to do whatever they wish, and they always obey Allah (ﷻ):
 <!-- tabs:start -->
@@ -101,7 +101,7 @@ In addition; jinns, just like human beings, have free will, and they may or may 
 
 ***
 
-<p style="text-align:center;">O ye who believe! Ward off from yourselves and your families a Fire whereof the fuel is men and stones, over which are set angels strong, severe, <mark>who resist not Allah in that which He commandeth them, but do that which they are commanded.</mark></p>
+<p style="text-align:center;">O ye who believe! Ward off from yourselves and your families a Fire whereof the fuel is men and stones, over which are set angels strong, severe, <mark>who resist not Allah in that which He commandeth them, but do that which they are commanded</mark>.</p>
 
 <!-- tabs:end -->
 
