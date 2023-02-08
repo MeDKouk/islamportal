@@ -36,7 +36,7 @@ Not only do ants communicate by sound, but even termites are specifically known 
 * **[Analysis of Acoustic Communication by Ants](<https://www.researchgate.net/publication/12274195_Analysis_of_acoustic_communication_by_ants>)**
 * **[The Bioacoustics of Ants](<https://agosto-foundation.org/the-bioacoustics-of-ants>)**
 
-Even if that absolutely ends the argument right there, we'll take it a step further; Muslim scholars have stated that due to the verses preceding **[27:18-19](<https://quranx.com/27.18-19>)**, it can be strongly adduced that these are winged ants or possible winged termites:
+Even if that absolutely ends the argument right there, we'll take it a step further; Muslim scholars have stated that due to the verses preceding **27:18-19**, it can be strongly adduced that these are winged ants or possible winged termites:
 <!-- tabs:start -->
 
 ### **<strong>27:16</strong>**
