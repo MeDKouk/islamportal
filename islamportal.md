@@ -9,8 +9,29 @@
 
 </div>
 
-## Copyright
-There is no copyright on Islamic materials.
+## 🕋 About
+**WikiIslam.net**; an infamous name for a filthy site that I'm not quite supposed to link. This site aims to be the ***real WikiIslam***, minus the propagandist and apologist content. The site's owner, which is me, decides to stay anonymous under the pseudonym of "MeD," for a very obvious reason:
+<!-- tabs:start -->
+
+### **<strong>Siyar A'lām al-Nubalā' (7:258) [^1] </strong>**
+<h3><p style="text-align:center;">قال سفيان الثوري: السلامة في أن لا تحب أن تُعرف.‏</p></h3>
+
+***
+
+<p style="text-align:center;"><b>Imam Sufyan al-Thawri said:</b> "Safety lies in not wanting to be known."</p>
+
+<!-- tabs:end -->
+
+This site is a trustworthy online resource on Islam, following the path of Ahlus-Sunnah wal-Jama'ah under the understanding of the first three generations of the Salaf. It's built on mere handiwork, and doesn't belong to any group or association.
+
+## 📚 Mistranslation and Errors
+We, as human beings, err. Mistakes are intrinsic attributes to the average human being. In addition, we translate the meaning and try our best to do so, but also keeping in mind the Italian saying:
+> "Traduttore, traditore. Translation is a betrayal of the original text."
+
+The blame is put on us if some mistakes, mistranslations, or misunderstandings of the meaning occur. If you spot any error, don't hesitate to contact me (i.e. `@MeDKouk`) via the **[Revolt server](<>)** and submit a correction.
+
+## ©️ Copyright
+There is no copyright on Islamic materials. This work is fully open source.
 
 First and foremost, we wish to point out that there is no such thing as "intellectual copyright" in Islam. A person cannot quote Quran and Sunnah or anything related to this religion and claim it for himself, this religion belongs to Allah (ﷻ) alone:
 <!-- tabs:start -->
@@ -62,3 +83,7 @@ This is a green light for reproduction. You have the right to do as you wish wit
 ![ShahadahLight](./Files/SVG/ShahadahLight.svg 'There is no god except Allah (ﷻ). Muhammad (ﷺ) is the Messenger of Allah (ﷻ). :no-zoom')
 
 </div>
+
+***
+
+[^1]: Imam al-Dhahabi - Siyar A'lām al-Nubalā' (7:258)

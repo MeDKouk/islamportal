@@ -115,20 +115,20 @@ This atheist logic of promoting hedonism also permits things like rape, bestiali
 
 <!-- tabs:end -->
 
-Although Reddit-type new-atheists won't admit it, actual academic atheist psuedo-philosophers, like Benetar, Singer, Gule etc., will state that this is what subjective attempts at a secular liberal atheist moral framework logically lead to.
+Although Reddit-type new-atheists won't admit it, actual academic atheist pseudo-philosophers, like Benetar, Singer, Gule etc., will state that this is what subjective attempts at a secular liberal atheist moral framework logically lead to.
 
 Atheist philosopher, Dr. Lars Gule, states that bestiality should be permissible in his [debate with Mohammed Hijab](<>), "as long as it's not hurting the animal." This is similar to the views of atheists like Peter Singer PhD:
 
 <video width="auto" controls>
-  <source src="https://medkouk.github.io/islamportal/Files/Videos/atheism-and-morality/lars-gule-beastiality.mp4" type="video/mp4">
-  <track src="https://medkouk.github.io/islamportal/Files/Videos/atheism-and-morality/lars-gule-beastiality.vtt" label="English" kind="captions" srclang="en-us" default >
+  <source src="../Files/Videos/atheism-and-morality/lars-gule-beastiality.mp4" type="video/mp4">
+  <track src="../Files/Videos/atheism-and-morality/lars-gule-beastiality.vtt" label="English" kind="captions" srclang="en-us" default >
 </video>
 
 Even high ranking leaders of new-atheist activism who pretend to be philosophers, like Lawrence Krauss, [a sex offender and Jeffrey Epstein's close friend](<https://www.azcentral.com/story/news/local/phoenix/2019/07/12/former-asu-physicist-lawrence-krauss-got-250-k-jeffrey-epstein/1718659001>), was forced in a [debate with Hamza Tzortzis](<https://youtu.be/uSwJuOPG4FI?start=4166&end=4263>) to admit that brother-sister incest is permissible according to atheistic views:
 
 <video width="auto" controls>
-  <source src="https://medkouk.github.io/islamportal/Files/Videos/atheism-and-morality/lawrence-krauss-incest.mp4" type="video/mp4">
-  <track src="https://medkouk.github.io/islamportal/Files/Videos/atheism-and-morality/lawrence-krauss-incest.vtt" label="English" kind="captions" srclang="en-us" default >
+  <source src="../Files/Videos/atheism-and-morality/lawrence-krauss-incest.mp4" type="video/mp4">
+  <track src="../Files/Videos/atheism-and-morality/lawrence-krauss-incest.vtt" label="English" kind="captions" srclang="en-us" default >
 </video>
 
 **[PLOS](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092302>)**' study on the topic of atheism and morality have found that even atheist participants judge immoral acts like incest, necrobestiality, serial murder and cannibalism as representatives of atheism:
@@ -195,21 +195,21 @@ Don't be fooled by these hilariously bad arguments atheists make; none of them h
 
 ***
 
-[^1]: The Twilight of the Idols and the Anti-Christ (1889) - Friedreich Wilhelm Nietzsche [The "Improvers" of Mankind (1)]
+[^1]: Friedreich Wilhelm Nietzsche - The Twilight of the Idols and the Anti-Christ (1889) [The "Improvers" of Mankind (1)]
 
-[^2]: The Twilight of the Idols and the Anti-Christ (1889) - Friedreich Nietzsche [Expeditions of an Untimely Man (5)]
+[^2]: Friedreich Wilhelm Nietzsche - The Twilight of the Idols and the Anti-Christ (1889) [Expeditions of an Untimely Man (5)]
 
-[^3]: Moral Realism: A Defence - Russ Shafer-Landau [2 - The Constructivist Challenge (I - Subjectivism and Objectivism)]
+[^3]: Russ Shafer-Landau - Moral Realism: A Defence [2 - The Constructivist Challenge (I - Subjectivism and Objectivism)]
 
-[^4]: On Liberty (1859) - John Stewart Mill [Chapter 1 - Introductory (p. 16)]
+[^4]: John Stewart Mill - On Liberty (1859) [Chapter 1 - Introductory (p. 16)]
 
-[^5]: Two Views of Sexual Ethics: Promiscuity, Pedophilia, and Rape - David Benatar [Abstract]
+[^5]: David Benatar - Two Views of Sexual Ethics: Promiscuity, Pedophilia, and Rape [Abstract]
 
-[^6]: Two Views of Sexual Ethics: Promiscuity, Pedophilia, and Rape - David Benatar [Two Views of Sexual Ethics]
+[^6]: David Benatar - Two Views of Sexual Ethics: Promiscuity, Pedophilia, and Rape [Two Views of Sexual Ethics]
 
-[^7]: Two Views of Sexual Ethics: Promiscuity, Pedophilia, and Rape - David Benatar [Implications of the Two Views]
+[^7]: David Benatar - Two Views of Sexual Ethics: Promiscuity, Pedophilia, and Rape [Implications of the Two Views]
 
-[^8]: Better Never to Have Been: The Harm of Coming Into Existence - David Benatar [2 - Why Coming into Existence is Always (Other Asymmetrics (p.50))]
+[^8]: David Benatar - Better Never to Have Been: The Harm of Coming Into Existence [2 - Why Coming into Existence is Always (Other Asymmetrics (p.50))]
 
 ![](./Files/Images/atheism-and-morality/atheismandmorality09.png)
 

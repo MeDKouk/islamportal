@@ -57,4 +57,4 @@ My only wish was to show the extent in which paganism has crept into the lives o
 
 ***
 
-[^1]: Children of the Ghetto - Israel Zangwill [Book II - The Grandchildren of the Ghetto (VI - Comedy or Tragedy? (p. 404))]
+[^1]: Israel Zangwill - Children of the Ghetto [Book II - The Grandchildren of the Ghetto (VI - Comedy or Tragedy? (p. 404))]
