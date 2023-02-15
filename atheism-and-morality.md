@@ -29,7 +29,20 @@ More psychologically developed atheists like Friedrich Nietzsche realized this:
 <!-- tabs:start -->
 
 ### **<strong>The "Improvers" of Mankind (1) [^1] </strong>**
-<p style="text-align:center;">One knows my demand of philosophers that they place themselves beyond good andevil – that they have the illusion of moral judgement beneath them. This demandfollows from an insight first formulated by me: that <mark>there are no moral factswhatever. Moral judgement has this in common with religious judgement that itbelieves in realities which do not exist.</mark> Morality is only an interpretation of certainphenomena, more precisely a misinterpretation. <mark>Moral judgement belongs, as doesreligious judgement, to a level of ignorance at which even the concept of the real,the distinction between the real and the imaginary, is lacking: so that at such a level'truth' denotes nothing but things which we today call 'imaginings'</mark>. To this extentmoral judgement is never to be taken literally: as such it never contains anything butnonsense. But as semeiotics it remains of incalculable value: it reveals, to theinformed man at least, the most precious realities of cultures and inner worldswhich did not know enough to ‘understand’ themselves. Morality is merely sign-language, merely symptomatology: one must already know what it is about toderive profit from it.</p>
+<p style="text-align:center;">One knows my demand of philosophers that they place themselves beyond good and
+evil – that they have the illusion of moral judgement beneath them. This demand
+follows from an insight first formulated by me: that <mark>there are no moral facts
+whatever. Moral judgement has this in common with religious judgement that it
+believes in realities which do not exist.</mark> Morality is only an interpretation of certain
+phenomena, more precisely a misinterpretation. <mark>Moral judgement belongs, as does
+religious judgement, to a level of ignorance at which even the concept of the real,
+the distinction between the real and the imaginary, is lacking: so that at such a level
+'truth' denotes nothing but things which we today call 'imaginings'</mark>. To this extent
+moral judgement is never to be taken literally: as such it never contains anything but
+nonsense. But as semeiotics it remains of incalculable value: it reveals, to the
+informed man at least, the most precious realities of cultures and inner worlds
+which did not know enough to ‘understand’ themselves. Morality is merely sign-language, merely symptomatology: one must already know what it is about to
+derive profit from it.</p>
 
 ### **<strong>Expeditions of an Untimely Man (5) [^2] </strong>**
 <p style="text-align:center;">G. Eliot – They have got rid of the Christian God, and now feel obliged to cling all the more firmly to Christian morality: that is English consistency, let us not blame it on little bluestockings à la Eliot. In England, in response to every little emancipation from theology one has to reassert one's position in a fear-inspiring manner as a moral fanatic. That is the penance one pays there. – With us it is different. When one gives up Christian belief one thereby deprives oneself of the right to Christian morality. For the latter is absolutely not self-evident: one must make this point clear again and again, in spite of English shallowpates. Christianity is a system, a consistently thought out and complete view of things. If one breaks out of it a fundamental idea, the belief in God, one thereby breaks the whole thing to pieces: one has nothing of any consequence left in one's hands. Christianity presupposes that man does not know, cannot know what is good for him and what evil: he believes in God, who alone knows. <mark>Christian morality is a command: its origin is transcendental; it is beyond all criticism, all right to criticize; it possesses truth only if God is truth – it stands or falls with the belief in God</mark>. – If the English really do believe they will know, of their own accord, 'intuitively', what is good and evil; if they consequently think they no longer have need of Christianity as a guarantee of morality; that is merely the consequence of the ascendancy of Christian evaluation and an expression of the strength and depth of this ascendancy: so that the origin of English morality has been forgotten, so that the highly conditional nature of its right to exist is no longer felt. For the Englishman morality is not yet a problem...</p>
@@ -61,7 +74,13 @@ John Stewart Mill's famous principle; an improvement to Jeremy Bentham’s utili
 
 ### **<strong>On Liberty (16) [^4] </strong>**
 <p style="text-align:center;">Secondly, the principle requires liberty of tastes and
-pursuits; of framing the plan of our life to suit our own character; of<mark>doing as we like</mark>, subject to such consequences as may follow: withoutimpediment from our fellow creatures, <mark>so long as what we do does notharm them, even though they should think our conduct foolish, perverse, or wrong</mark>. Thirdly, from this liberty of each individual, followsthe liberty, within the same limits, of combination among individuals;freedom to unite, for any purpose <mark>not involving harm to others</mark>: the persons combining being supposed to be of full age, and not forced ordeceived.</p>
+pursuits; of framing the plan of our life to suit our own character; of
+<mark>doing as we like</mark>, subject to such consequences as may follow: without
+impediment from our fellow creatures, <mark>so long as what we do does not
+harm them, even though they should think our conduct foolish, perverse, or wrong</mark>. Thirdly, from this liberty of each individual, follows
+the liberty, within the same limits, of combination among individuals;
+freedom to unite, for any purpose <mark>not involving harm to others</mark>: the persons combining being supposed to be of full age, and not forced or
+deceived.</p>
 
 <!-- tabs:end -->
 
@@ -101,15 +120,15 @@ Although Reddit-type new-atheists won't admit it, actual academic atheist psuedo
 Atheist philosopher, Dr. Lars Gule, states that bestiality should be permissible in his [debate with Mohammed Hijab](<>), "as long as it's not hurting the animal." This is similar to the views of atheists like Peter Singer PhD:
 
 <video width="auto" controls>
-  <source src="/Files/Videos/atheism-and-morality/lars-gule-beastiality.mp4" type="video/mp4">
-  <track src="/Files/Videos/atheism-and-morality/lars-gule-beastiality.vtt" label="English" kind="captions" srclang="en-us" default >
+  <source src="./Files/Videos/atheism-and-morality/lars-gule-beastiality.mp4" type="video/mp4">
+  <track src="./Files/Videos/atheism-and-morality/lars-gule-beastiality.vtt" label="English" kind="captions" srclang="en-us" default >
 </video>
 
 Even high ranking leaders of new-atheist activism who pretend to be philosophers, like Lawrence Krauss, [a sex offender and Jeffrey Epstein's close friend](<https://www.azcentral.com/story/news/local/phoenix/2019/07/12/former-asu-physicist-lawrence-krauss-got-250-k-jeffrey-epstein/1718659001>), was forced in a [debate with Hamza Tzortzis](<https://youtu.be/uSwJuOPG4FI?start=4166&end=4263>) to admit that brother-sister incest is permissible according to atheistic views:
 
 <video width="auto" controls>
-  <source src="/Files/Videos/atheism-and-morality/lawrence-krauss-incest.mp4" type="video/mp4">
-  <track src="/Files/Videos/atheism-and-morality/lawrence-krauss-incest.vtt" label="English" kind="captions" srclang="en-us" default >
+  <source src="./Files/Videos/atheism-and-morality/lawrence-krauss-incest.mp4" type="video/mp4">
+  <track src="./Files/Videos/atheism-and-morality/lawrence-krauss-incest.vtt" label="English" kind="captions" srclang="en-us" default >
 </video>
 
 **[PLOS](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092302>)**' study on the topic of atheism and morality have found that even atheist participants judge immoral acts like incest, necrobestiality, serial murder and cannibalism as representatives of atheism:
