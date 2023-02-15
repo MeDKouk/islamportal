@@ -120,15 +120,15 @@ Although Reddit-type new-atheists won't admit it, actual academic atheist psuedo
 Atheist philosopher, Dr. Lars Gule, states that bestiality should be permissible in his [debate with Mohammed Hijab](<>), "as long as it's not hurting the animal." This is similar to the views of atheists like Peter Singer PhD:
 
 <video width="auto" controls>
-  <source src="./Files/Videos/atheism-and-morality/lars-gule-beastiality.mp4" type="video/mp4">
-  <track src="./Files/Videos/atheism-and-morality/lars-gule-beastiality.vtt" label="English" kind="captions" srclang="en-us" default >
+  <source src="../Files/Videos/atheism-and-morality/lars-gule-beastiality.mp4" type="video/mp4">
+  <track src="../Files/Videos/atheism-and-morality/lars-gule-beastiality.vtt" label="English" kind="captions" srclang="en-us" default >
 </video>
 
 Even high ranking leaders of new-atheist activism who pretend to be philosophers, like Lawrence Krauss, [a sex offender and Jeffrey Epstein's close friend](<https://www.azcentral.com/story/news/local/phoenix/2019/07/12/former-asu-physicist-lawrence-krauss-got-250-k-jeffrey-epstein/1718659001>), was forced in a [debate with Hamza Tzortzis](<https://youtu.be/uSwJuOPG4FI?start=4166&end=4263>) to admit that brother-sister incest is permissible according to atheistic views:
 
 <video width="auto" controls>
-  <source src="./Files/Videos/atheism-and-morality/lawrence-krauss-incest.mp4" type="video/mp4">
-  <track src="./Files/Videos/atheism-and-morality/lawrence-krauss-incest.vtt" label="English" kind="captions" srclang="en-us" default >
+  <source src="../Files/Videos/atheism-and-morality/lawrence-krauss-incest.mp4" type="video/mp4">
+  <track src="../Files/Videos/atheism-and-morality/lawrence-krauss-incest.vtt" label="English" kind="captions" srclang="en-us" default >
 </video>
 
 **[PLOS](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092302>)**' study on the topic of atheism and morality have found that even atheist participants judge immoral acts like incest, necrobestiality, serial murder and cannibalism as representatives of atheism:
