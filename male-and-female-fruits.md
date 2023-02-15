@@ -27,7 +27,7 @@ Without the slightest doubt, that is plain nonsense. There are no male and femal
 ## Refutation
 A pair of shoes doesn't mean that one is male and the other is female, and if one is constantly thinking about it in this day and age, it means that he has a really sick mentality.
 
-I'll assume that they quoted Pickthall's personal commentary in his translation, but the main fact is that it's not explicitly mentioned in the verse that one is male and another is female in the original Arabic text, however, critics don't care, they interpret the aforementioned verse as if there are male and female fruits, choosing the inaccurate commentary to best suit their needs. This, as we know, does not occur in nature, but the critics just like to twist the facts and interpreted the verse in the sense of their degenerate fantasies and sexual fetishes.
+I'll assume that they quoted Pickthall's personal commentary in his translation, but the main fact is that it's not explicitly mentioned in the verse that one is male and another is female in the original Arabic text, however, critics don't care, they interpret the aforementioned verse as if there are male and female fruits, choosing the inaccurate commentary to best suit their needs. This, as we know, does not occur in nature, but the critics just like to twist the facts and interpret the verse in the sense of their degenerate fantasies and sexual fetishes.
 
 In that verse, Allah (ﷻ) informs us that the theme in nature is that He creates in pairs and opposites, such as; male and female in humans, animals, plants, etc. He also created inanimate entities in pairs and opposites, such as; protons and electrons.
 

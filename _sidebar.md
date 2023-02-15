@@ -1,6 +1,9 @@
 * **Atheism**
    * [Atheism and Mathematics](atheism-and-mathematics.md)
+   * [Atheism and Mentality](atheism-and-mentality.md)
    * [Atheism and Morality](atheism-and-morality.md)
+* **Christianity**
+   * [Origins of the Solar Calendar](origins-of-the-solar-calendar.md)
 * **Deceptive Tactics**
    * [Addressing The Refutation](addressing-the-refutation.md)
 * **Muhammad (ﷺ) - Refutations**
@@ -14,11 +17,15 @@
    * [Billions of Names](billions-of-names.md)
    * [Brains in Breasts](brains-in-breasts.md)
    * [Earth Created in Six Days](earth-created-in-six-days.md)
+   * [Eleven Planets in the Solar System](eleven-planets-in-the-solar-system.md)
+   * [Falling of the Sky](falling-of-the-sky.md)
    * [Humans Turned Apes](humans-turned-apes.md)
    * [Male and Female Fruits](male-and-female-fruits.md)
    * [Mooing Calf Statue](mooing-calf-statue.md)
-* **Women**
-   * [Hijab](hijab.md)
+* **Refutations**
+   * [Abu Hurairah Accompanies the Prophet (ﷺ) For Food](abu-hurairah-accompanies-the-prophet-for-food.md)
+   * [Scaring Children](scaring-children.md)
+   * [The Islamic World and Gay Porn](the-islamic-world-and-gay-porn.md)
 * **Test**
    * [Test](test.md)
 
