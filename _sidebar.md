@@ -31,5 +31,5 @@
 
 ***
 
-[![Revolt | @MeDKouk](https://img.shields.io/badge/Revolt-%40MeDKouk-555555?style=flat-square&labelColor=FF4654&logo=revolt.chat&logoColor=555555 ':no-zoom')](<https://app.revolt.chat>)
+[![Revolt Server | IslamPortal](https://img.shields.io/badge/Revolt-%40MeDKouk-555555?style=flat-square&labelColor=FF4654&logo=revolt.chat&logoColor=555555 ':no-zoom')](<https://rvlt.gg/9DZAjRf8>)
 [![YouTube | Kouk (@medsukuku)](https://img.shields.io/badge/YouTube-Kouk%20(%40medsukuku)-555555?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=555555 ':no-zoom')](<https://youtube.com/@medsukuku>)

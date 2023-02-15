@@ -28,7 +28,7 @@ This site is a trustworthy online resource on Islam, following the path of Ahlus
 We, as human beings, err. Mistakes are intrinsic attributes to the average human being. In addition, we translate the meaning and try our best to do so, but also keeping in mind the Italian saying:
 > "Traduttore, traditore. Translation is a betrayal of the original text."
 
-The blame is put on us if some mistakes, mistranslations, or misunderstandings of the meaning occur. If you spot any error, don't hesitate to contact me (i.e. `@MeDKouk`) via the **[Revolt server](<>)** and submit a correction.
+The blame is put on us if some mistakes, mistranslations, or misunderstandings of the meaning occur. If you spot any error, don't hesitate to contact me (i.e. `@MeDKouk`) via the **[Revolt server](<https://rvlt.gg/9DZAjRf8>)** and submit a correction.
 
 ## ©️ Copyright
 There is no copyright on Islamic materials. This work is fully open source.
