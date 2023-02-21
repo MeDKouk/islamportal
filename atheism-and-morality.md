@@ -132,8 +132,22 @@ Even high ranking leaders of new-atheist activism who pretend to be philosophers
 </video>
 
 **[PLOS](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092302>)**' study on the topic of atheism and morality have found that even atheist participants judge immoral acts like incest, necrobestiality, serial murder and cannibalism as representatives of atheism:
+<!-- tabs:start -->
 
-![](./Files/Images/atheism-and-morality/atheismandmorality04.png)
+### **<strong>Abstract [^8] </strong>**
+<p style="text-align:center;">Scientific research yields inconsistent and contradictory evidence relating religion to moral judgments and outcomes, yet most people on earth nonetheless view belief in God (or gods) as central to morality, and many view atheists with suspicion and scorn. To evaluate intuitions regarding a causal link between religion and morality, this paper tested intuitive moral judgments of atheists and other groups. Across five experiments (N = 1,152), <mark>American participants intuitively judged a wide variety of immoral acts (e.g., serial murder, consensual incest, necrobestiality, cannibalism) as representative of atheists</mark>, but not of eleven other religious, ethnic, and cultural groups. <mark>Even atheist participants judged immoral acts as more representative of atheists</mark> than of other groups. These findings demonstrate a prevalent intuition that belief in God serves a necessary function in inhibiting immoral conduct, and may help explain persistent negative perceptions of atheists.</p>
+
+
+### **<strong>Experiment 1 - Results [^9] </strong>**
+<p style="text-align:center;">Figure 2. Conjunction error rates (proportion), Experiments 1–3.
+A) Given a description of serial murder and animal torture, participants were significantly more likely to commit a conjunction error for the atheist target than for any of five religious targets. B) Given a description of consensual incest, participants were significantly more likely to commit a conjunction error for the atheist target than for any of five religious targets. C) Given a description of a man having sex with, then eating, a dead chicken, participants were significantly more likely to commit a conjunction error for the atheist target than for any of five ethnic targets. Error bars represent 95% confidence intervals of the mean.</p>
+
+![](./Files/Images/atheism-and-morality/figure-2.png "Figure 2")
+
+### **<strong> [^10] </strong>**
+<p style="text-align:center;"></p>
+
+<!-- tabs:end -->
 
 ![](./Files/Images/atheism-and-morality/atheismandmorality03.png)
 
@@ -148,7 +162,7 @@ This also contradicts atheism, for the logical end conclusion of basing morality
 With the spread and acceptance of such an ideology, atheism will surely cause the extinction of the human race, according to David Benatar (who I personally consider as a clown and a walking contradiction):
 <!-- tabs:start -->
 
-### **<strong>Other Asymmetrics (50) [^8] </strong>**
+### **<strong>Other Asymmetrics (50) [^11] </strong>**
 <p style="text-align:center;">Since all existers suffer harm, procreation always causes harm. Professor Shiffrin is prepared to grant (for the sake of argument?) that 'being created can benefit a person. However, in accordance with the asymmetry just mentioned, we may not inflict the harm in order to secure the benefit. Although existing people can sometimes authorize our inflicting harm in order to secure some benefit for them, <mark>we can never obtain the consent of those whom we bring into existence before we create them. Nor can we presume hypothetical consent</mark>, she argues. There are four reasons for this. First, the person is not harmed if we fail to create him or her. Secondly, the harms of existence may be severe. Thirdly, the harms of life cannot be escaped without considerable cost. Finally, the hypothetical consent is not based on the individual's values or attitudes towards risk.</p>
 
 <!-- tabs:end -->
@@ -164,13 +178,15 @@ After all, no atheist informs religious people that atheism causes health proble
 ## 4. Evolution
 Contradictory to atheism, as well. Ironic, isn't it?
 
-Secularism, the political philosophy of atheism, results in population decline and a civilization’s eventual extinction. Atheist societies are evolutionarily inferior, they can't survive.
-
-In addition, evolution stands by the claim that any deeper meaning to morality beyond survival, such as ethics, is illusory. But hypothetically, if evolution took us to a point where rape is added our survival, then it becomes moral according to the atheistic mindset; that's why Dawkins said rape being wrong is as arbitrary as us evolving to have 5 fingers instead of 6.
-
-Secularism, by the way, which is a direct product of atheism, results in population decline and a civilization's eventual extinction. Atheist societies do not and cannot survive, according to [this](<https://osf.io/preprints/socarxiv/pvwpy>), [this](<https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(09)00289-7>), and [this](<https://www.tandfonline.com/doi/abs/10.1080/2153599X.2012.667948>):
+Secularism, the political philosophy and the direct product of atheism, results in population decline and a civilization’s eventual extinction. Atheist societies are evolutionarily inferior, they don't and can't survive, according to [this](<https://osf.io/preprints/socarxiv/pvwpy>), [this](<https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(09)00289-7>), and [this](<https://www.tandfonline.com/doi/abs/10.1080/2153599X.2012.667948>):
 
 ![](./Files/Images/atheism-and-morality/atheismandmorality11.png)
+
+![](./Files/Images/atheism-and-morality/atheismandmorality10.png)
+
+![](./Files/Images/atheism-and-morality/atheismandmorality09.png)
+
+In addition, evolution stands by the claim that any deeper meaning to morality beyond survival, such as ethics, is illusory. But hypothetically, if evolution took us to a point where rape is added our survival, then it becomes moral according to the atheistic mindset; that's why Dawkins admitted that rape being wrong is as arbitrary as us evolving to have 5 fingers instead of 6.
 
 And, of course, we should not even need to explain why the behavior of animals should not be the basis for morality; animals don't have moral values, all they have is murder, rape, cannibalism, sacrifice, coprophagia, incest, necrophilia, pedophilia, sodomy, shamelessness, nudity, theft, and infanticide, just to name a few.
 
@@ -209,8 +225,10 @@ Don't be fooled by these hilariously bad arguments atheists make; none of them h
 
 [^7]: David Benatar - Two Views of Sexual Ethics: Promiscuity, Pedophilia, and Rape [Implications of the Two Views]
 
-[^8]: David Benatar - Better Never to Have Been: The Harm of Coming Into Existence [2 - Why Coming into Existence is Always (Other Asymmetrics (p.50))]
+[^8]: Will M. Gervais - Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists [Abstract]
 
-![](./Files/Images/atheism-and-morality/atheismandmorality09.png)
+[^9]: Will M. Gervais - Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists
 
-![](./Files/Images/atheism-and-morality/atheismandmorality10.png)
+[^10]: Will M. Gervais - Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists
+
+[^11]: David Benatar - Better Never to Have Been: The Harm of Coming Into Existence [2 - Why Coming into Existence is Always (Other Asymmetrics (p.50))]

@@ -22,9 +22,12 @@
    * [Humans Turned Apes](humans-turned-apes.md)
    * [Male and Female Fruits](male-and-female-fruits.md)
    * [Mooing Calf Statue](mooing-calf-statue.md)
+   * [Seven Earths](seven-earths.md)
+   * [Stars Closer to the Earth Than the Moon](stars-closer-to-the-earth-than-the-moon.md)
 * **Refutations**
    * [Abu Hurairah Accompanies the Prophet (ﷺ) For Food](abu-hurairah-accompanies-the-prophet-for-food.md)
    * [Scaring Children](scaring-children.md)
+   * [The Buraq](the-buraq.md)
    * [The Islamic World and Gay Porn](the-islamic-world-and-gay-porn.md)
 * **Test**
    * [Test](test.md)
