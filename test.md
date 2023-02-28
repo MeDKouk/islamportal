@@ -1,4 +1,4 @@
-# 📤 Submission Guidelines
+# 🧪 Test
 <div class="dark-mode">
 
 ![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
@@ -45,11 +45,6 @@ you didn't really have to do it like that bruhh 💀💀💀
 > [!ATTENTION]
 > `> [!ATTENTION]`
 
-## Footnotes
-Footnote number one.
-
-Footnote number two. [^2]
-
 ## Mark
 <markgreen>Green!</markgreen> - `<markgreen>`
 
@@ -61,24 +56,18 @@ Footnote number two. [^2]
 
 <mark>Mark.</mark> - `<mark>`
 
-## Mermaid
-```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#1F2120',
-      'primaryTextColor': '#fff',
-      'primaryBorderColor': '#008080',
-      'lineColor': '#929292'
-    }
-  }
-}%%
-  graph TD
-    a --> b
-```
-
 ## Prefers Color Scheme [Bismillah]
+<div class="dark-mode">
+
+![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+<div class="light-mode">
+
+![BismillahLight](./Files/SVG/BismillahLight.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
+
+</div>
+
 ```
 <div class="dark-mode">
 
@@ -95,8 +84,6 @@ Footnote number two. [^2]
 ## WikiLink
 **[[iblis-angel-jinn#refutation|Is Iblis an angel or a jinn? - Refutation]]**
 
-***
-
-[^1]: Still boggles my mind how they made a "pregnant man" emoji, but still can't properly implement actual useful Arabic terms like "Alayhis-Salam (عليه السلام)," smh.
-
-[^2]: Here's one with multiple paragraphs and code.
+```
+**[[iblis-angel-jinn#refutation|Is Iblis an angel or a jinn? - Refutation]]**
+```

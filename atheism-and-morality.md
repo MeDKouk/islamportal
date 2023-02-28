@@ -62,9 +62,10 @@ In other words, we can conclude that atheism has no objective morality, because 
 2. Hedonism (maximizing pleasure and happiness)
 3. Consent
 4. Evolution (imitating animals to survive)
-5. Empathy
 
-From this point on, we will show how absurd such choices can be if they're used to differentiate between good and bad.
+Some may suggest "empathy" as a fifth grounding, but it's just [another term for morality](<https://journals.sagepub.com/doi/10.1177/1745691614545130>), and in this case, that would be circular reasoning.
+
+Now, from this point on, we will show how absurd such choices can be if they're used to differentiate between good and bad.
 
 ## 1. The Harm Principle
 John Stewart Mill's famous principle; an improvement to Jeremy Bentham’s utilitarianism, which in turn can be summarized as:
@@ -87,10 +88,16 @@ deceived.</p>
 This logic is, however, highly contradictory to atheism; mountains of scientific studies have shown atheism is harmful to human health and society.
 
 This large meta-analysis from **[ScienceDirect](<https://www.sciencedirect.com/science/article/abs/pii/S0140197111001138>)** shows how atheism harms people's well-being, mental health, and results in higher crime rates:
+<!-- tabs:start -->
 
-![](./Files/Images/atheism-and-morality/atheismandmorality01.png)
+### **<strong>Page 1</strong>**
+![](./Files/Images/atheism-and-morality/page-1.png)
 
-![](./Files/Images/atheism-and-morality/atheismandmorality02.png)
+
+### **<strong>Page 2</strong>**
+![](./Files/Images/atheism-and-morality/page-2.png)
+
+<!-- tabs:end -->
 
 Atheists can't consistently use this logic without also abandoning atheism itself; they cannot claim an action is morally wrong using the Harm Principle, since atheism itself is something that harms people, and therefore, by this reasoning, atheism itself is morally wrong.
 
@@ -139,19 +146,17 @@ Even high ranking leaders of new-atheist activism who pretend to be philosophers
 
 
 ### **<strong>Experiment 1 - Results [^9] </strong>**
-<p style="text-align:center;">Figure 2. Conjunction error rates (proportion), Experiments 1–3.
-A) Given a description of serial murder and animal torture, participants were significantly more likely to commit a conjunction error for the atheist target than for any of five religious targets. B) Given a description of consensual incest, participants were significantly more likely to commit a conjunction error for the atheist target than for any of five religious targets. C) Given a description of a man having sex with, then eating, a dead chicken, participants were significantly more likely to commit a conjunction error for the atheist target than for any of five ethnic targets. Error bars represent 95% confidence intervals of the mean.</p>
+<p style="text-align:center;"><b>A:</b> Given a description of serial murder and animal torture, <mark>participants were significantly more likely to commit a conjunction error for the atheist target</mark> than for any of five religious targets.</p>
 
-![](./Files/Images/atheism-and-morality/figure-2.png "Figure 2")
+<p style="text-align:center;"><b>B:</b> Given a description of consensual incest, <mark>participants were significantly more likely to commit a conjunction error for the atheist target</mark> than for any of five religious targets.</p>
 
-### **<strong> [^10] </strong>**
-<p style="text-align:center;"></p>
+<p style="text-align:center;"><b>C:</b> Given a description of a man having sex with, then eating, a dead chicken, <mark>participants were significantly more likely to commit a conjunction error for the atheist target</mark> than for any of five ethnic targets.</p>
+
+<p style="text-align:center;">Error bars represent 95% confidence intervals of the mean.</p>
+
+![](./Files/Images/atheism-and-morality/figure-2.png "Figure 2 (Conjunction Error Rates (Proportion) - Experiments 1-3)")
 
 <!-- tabs:end -->
-
-![](./Files/Images/atheism-and-morality/atheismandmorality03.png)
-
-![](./Files/Images/atheism-and-morality/atheismandmorality08.png)
 
 Therefore, the idea of the Harm Principle doesn't conform with atheism in the first place.
 
@@ -162,36 +167,37 @@ This also contradicts atheism, for the logical end conclusion of basing morality
 With the spread and acceptance of such an ideology, atheism will surely cause the extinction of the human race, according to David Benatar (who I personally consider as a clown and a walking contradiction):
 <!-- tabs:start -->
 
-### **<strong>Other Asymmetrics (50) [^11] </strong>**
+### **<strong>Other Asymmetrics (50) [^10] </strong>**
 <p style="text-align:center;">Since all existers suffer harm, procreation always causes harm. Professor Shiffrin is prepared to grant (for the sake of argument?) that 'being created can benefit a person. However, in accordance with the asymmetry just mentioned, we may not inflict the harm in order to secure the benefit. Although existing people can sometimes authorize our inflicting harm in order to secure some benefit for them, <mark>we can never obtain the consent of those whom we bring into existence before we create them. Nor can we presume hypothetical consent</mark>, she argues. There are four reasons for this. First, the person is not harmed if we fail to create him or her. Secondly, the harms of existence may be severe. Thirdly, the harms of life cannot be escaped without considerable cost. Finally, the hypothetical consent is not based on the individual's values or attitudes towards risk.</p>
 
 <!-- tabs:end -->
 
 There's even a whole subreddit supporting anti-natalism, which I still consider to be the best community that describes those brainless Reddit-type new-atheists.
 
-Of course, even if we do not go to this extreme conclusion, atheism also contradicts informed consent.
+Of course, even if we do not go to this extreme conclusion, atheism also contradicts informed consent. After all, no atheist informs religious people that atheism causes health problems, depression, and pushes its adherents to promote [higher suicide rates](<https://link.springer.com/article/10.1007/s10943-009-9248-8>), as far as I know:
+<!-- tabs:start -->
 
-After all, no atheist informs religious people that atheism causes health problems, depression, and promotes [higher suicide rates](<https://link.springer.com/article/10.1007/s10943-009-9248-8>), as far as I know:
+### **<strong>Atheism and Agnosticism on Suicidality</strong>**
+<p style="text-align:center;">Atheists generally ascribe to a belief that there is no God, supreme power, or subsequently, no afterlife. Research in this area has tended to center on end-of-life and palliative care. In a Smith-Stoner (2007) survey of self-identified atheists found <mark>a clear and strong preference for physician-assisted suicide (PAS)</mark> and evidence-based medical interventions related to end-of-life care. <mark>Over 95% of participants supported PAS</mark>, as an important consideration in palliative care medicine (Smith-Stoner 2007). Clinicians were therefore recommended to proactively and directly address PAS and suicide issues with atheists related to suffering and end-of-life issues, as well as maintaining respect for client philosophical beliefs or non-beliefs (Smith-Stoner 2007). Research has also found that <mark>atheistic or agnostic health care professionals are more likely to favor PAS or euthanasia</mark> than religiously affiliated health care professionals (Anderson and Caddell 1993; Baume et al. 1995). Although there is exceptionally limited data on Atheism and suicide, limited research including case studies recognize that these beliefs may impact and influence life and death attitudes and decisions (Jaschke and Doi 1989).</p>
 
-![](./Files/Images/atheism-and-morality/atheismandmorality12.png)
+<p style="text-align:center;">It is recommended that mental health practitioners explore <mark>the potential impact of agnostic or atheistic beliefs may exert on a person in relation to suicidality, including attraction to death or repulsion to life</mark>. Specifically, clinicians should assess for the influence of these beliefs if the person is experiencing significant physical, psychological, or emotional pain.</p>
+
+<!-- tabs:end -->
 
 ## 4. Evolution
 Contradictory to atheism, as well. Ironic, isn't it?
 
-Secularism, the political philosophy and the direct product of atheism, results in population decline and a civilization’s eventual extinction. Atheist societies are evolutionarily inferior, they don't and can't survive, according to [this](<https://osf.io/preprints/socarxiv/pvwpy>), [this](<https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(09)00289-7>), and [this](<https://www.tandfonline.com/doi/abs/10.1080/2153599X.2012.667948>):
+Secularism, the political philosophy and the direct product of atheism, results in population decline and a civilization’s eventual extinction. Atheist societies are evolutionarily inferior, they don't and can't survive longer than religious societies, according to [this](<https://osf.io/preprints/socarxiv/pvwpy>), [this](<https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(09)00289-7>), and [this](<https://www.tandfonline.com/doi/abs/10.1080/2153599X.2012.667948>):
+<!-- tabs:start -->
 
-![](./Files/Images/atheism-and-morality/atheismandmorality11.png)
+### **<strong>Abstract [^11] </strong>**
+<p style="text-align:center;">This study proposesand explores a new fertility determinant: societal secularism. Using country-level data from multiple sources (N=181) and multilevel data from 58 countries in the World Values Survey (N=83,301), I document a strong negative relationship between societal secularismand both country-level fertility rates and individual-level fertility behavior. <mark>Secularism, even in small amounts, is associated with population stagnation or even decline absent substantial immigration</mark>, whereas highly religious countries have higher fertility rates that promote population growth. This country-level pattern is driven by more than aggregate lower fertility of secular individuals. In fact, societal secularism is a better predictor of highly religious individuals' fertility behavior than that of secular individuals, and this pattern is largely a function of cultural values related to gender, reproduction, and autonomyin secular societies. Beyond their importance for the religious composition of the world population, the patterns presented in this study are relevant to key fertility theories and could help account for below-replacement fertility.</p>
 
-![](./Files/Images/atheism-and-morality/atheismandmorality10.png)
-
-![](./Files/Images/atheism-and-morality/atheismandmorality09.png)
+<!-- tabs:end -->
 
 In addition, evolution stands by the claim that any deeper meaning to morality beyond survival, such as ethics, is illusory. But hypothetically, if evolution took us to a point where rape is added our survival, then it becomes moral according to the atheistic mindset; that's why Dawkins admitted that rape being wrong is as arbitrary as us evolving to have 5 fingers instead of 6.
 
 And, of course, we should not even need to explain why the behavior of animals should not be the basis for morality; animals don't have moral values, all they have is murder, rape, cannibalism, sacrifice, coprophagia, incest, necrophilia, pedophilia, sodomy, shamelessness, nudity, theft, and infanticide, just to name a few.
-
-## 5. Empathy
-"Empathy" is just [another term for morality](<https://journals.sagepub.com/doi/10.1177/1745691614545130>), and in this case, that would be circular reasoning.
 
 ***
 
@@ -207,7 +213,7 @@ Atheists attack Islam because we don't condone treating women like prostitutes a
 
 The worshippers of "soyence" talk about how "religion harms people," yet no scientific evidence backs any of this up, and ironically mountains of scientific data show atheism harms people. They talk about "consent" yet misrepresent the harms of atheism in order to obtain an illegitimate consent. They worship evolution but do not realize atheism is evolutionarily inferior.
 
-Don't be fooled by these hilariously bad arguments atheists make; none of them hold any ground once we begin to scrutinize it.
+Don't be fooled by these hilariously bad arguments atheists make; none of them hold any ground once we begin to scrutinize them.
 
 ***
 
@@ -227,8 +233,8 @@ Don't be fooled by these hilariously bad arguments atheists make; none of them h
 
 [^8]: Will M. Gervais - Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists [Abstract]
 
-[^9]: Will M. Gervais - Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists
+[^9]: Will M. Gervais - Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists [Experiment 1 - Results]
 
-[^10]: Will M. Gervais - Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists
+[^10]: David Benatar - Better Never to Have Been: The Harm of Coming Into Existence [2 - Why Coming into Existence is Always (Other Asymmetrics (p.50))]
 
-[^11]: David Benatar - Better Never to Have Been: The Harm of Coming Into Existence [2 - Why Coming into Existence is Always (Other Asymmetrics (p.50))]
+[^11]: Landon Schnabel - Secularism and Fertility Worldwide [Abstract]

@@ -29,4 +29,4 @@ Yet somehow, the same people believe that apes were transformed gradually into h
 
 This isn't an error at all; the absence of evidence doesn't point out to the degree of its falsity and incorrectness. How about you actually present evidence disproving this event instead, which happened thousands of years ago, with a specific range of people?
 
-"Humans being turned apes" is a supernatural  punishment, which was ordered by Allah (ﷻ). The critic here is again trying to ridicule this story through his naturalistic rhetoric against religious miracles.
+"Humans being turned apes" is a supernatural  punishment, which was ordered by Allah (ﷻ). The critic here is again trying to ridicule this story through his unintellectual naturalistic rhetoric against religious miracles.
