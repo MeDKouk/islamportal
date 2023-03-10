@@ -2,17 +2,17 @@
    * [Atheism and Mathematics](atheism-and-mathematics.md)
    * [Atheism and Mentality](atheism-and-mentality.md)
    * [Atheism and Morality](atheism-and-morality.md)
+   * [Harms of Atheism](harms-of-atheism.md)
+   * [The Problem of Evil](the-problem-of-evil.md)
 * **Christianity**
    * [Origins of the Solar Calendar](origins-of-the-solar-calendar.md)
 * **Deceptive Tactics**
    * [Addressing The Refutation](addressing-the-refutation.md)
-* **Muhammad (ﷺ) - Refutations**
-   * [The Prophet (ﷺ) is a Fat Dwarf](the-prophet-is-a-fat-dwarf.md)
 * **Quran - Contradictions**
    * [Is Iblis an angel or a jinn?](is-iblis-an-angel-or-a-jinn.md)
    * [Was Noah's son drowned or saved?](was-noah's-son-drowned-or-saved.md)
    * [Was Pharaoh drowned or saved?](was-pharaoh-drowned-or-saved.md)
-* **Quran - Scientific Errors**
+* **Scientific Errors**
    * [Ant Communication](ant-communication.md)
    * [Billions of Names](billions-of-names.md)
    * [Brains in Breasts](brains-in-breasts.md)
@@ -29,6 +29,7 @@
    * [Scaring Children](scaring-children.md)
    * [The Buraq](the-buraq.md)
    * [The Islamic World and Gay Porn](the-islamic-world-and-gay-porn.md)
+   * [The Prophet (ﷺ) is a Fat Dwarf](the-prophet-is-a-fat-dwarf.md)
 * **Test**
    * [Test](test.md)
 

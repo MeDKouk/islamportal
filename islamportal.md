@@ -10,7 +10,7 @@
 </div>
 
 ## 🕋 About
-**WikiIslam.net**; an infamous name for a filthy site that I'm not quite supposed to link. This site aims to be the ***real WikiIslam***, minus the propagandist and apologist content. The site's owner, which is me, decides to stay anonymous under the pseudonym of "MeD," for a very obvious reason:
+**WikiIslam.net**; an infamous name for a filthy hub of misinformation and utter tomfoolery that I'm not quite supposed to link. This site, **IslamPortal**, aims to be the ***real WikiIslam***, minus the propagandist and apologist content. The site's owner, which is me, decides to remain anonymous under the pseudonym of "MeD," for a very obvious reason:
 <!-- tabs:start -->
 
 ### **<strong>Siyar A'lām al-Nubalā' (7:258) [^1] </strong>**
@@ -22,13 +22,19 @@
 
 <!-- tabs:end -->
 
+We, MeD (i.e. the site's maintainer) and Purse (i.e. another schizo that made some articles), are not scholars, not Imams, and not even something on the similitude, but we're quite knowledgeable on this field, just trust us. We actively maintain this site to merely deal with our crippling social anxieties, so you might find some schizophrenic nuisances, mental breakdowns, and an unprofessional use of meme language scattered across the site, but most of those are intentional, so you're obliged to detect sarcasm to know which statements you'll have to take as an example to raise your children without psychologically affecting them.
+
 This site is a trustworthy online resource on Islam, following the path of Ahlus-Sunnah wal-Jama'ah under the understanding of the first three generations of the Salaf. It's built on mere handiwork, and doesn't belong to any group or association.
+
+Please take notes that this site is infiltrated with an unhealthy and frequent usage of disability slurs, but keep in mind that we're not being offensive, as we're Muslims, not ableists. I used those insensitive slurs because... hey, you gotta address those people with a name that pertains to their level of retardation, you know!
 
 ## 📚 Mistranslation and Errors
 We, as human beings, err. Mistakes are intrinsic attributes to the average human being. In addition, we translate the meaning and try our best to do so, but also keeping in mind the Italian saying:
 > "Traduttore, traditore. Translation is a betrayal of the original text."
 
-The blame is put on us if some mistakes, mistranslations, or misunderstandings of the meaning occur. If you spot any error, don't hesitate to contact me (i.e. `@MeDKouk`) via the **[Revolt server](<https://rvlt.gg/9DZAjRf8>)** and submit a correction.
+The blame is put on us if some mistakes, mistranslations, or misunderstandings of the meaning occur. If you spot any error, don't hesitate to contact us (i.e. `@MeDKouk` or `@Purse`) via the **[Revolt server](<https://rvlt.gg/9DZAjRf8>)** and submit a correction.
+
+I make some typos here and there on purpose, by the way, because I loathe English as an internationally spoken language. Nevertheless, sory for bed england :(
 
 ## ©️ Copyright
 There is no copyright on Islamic materials. This work is fully open source.

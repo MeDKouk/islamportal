@@ -10,11 +10,11 @@
 
 </div>
 
-The overwhelming majority of atheist criticism against Islam and religion in general are moral claims, such as; Islam is violent, homophobic, pedophilic, etc. Yet to an intelligent person, this does not make sense; how do people without any moral foundation have the audacity to make moral arguments in the first place?
+The overwhelming majority of atheist criticism against Islam and religion in general are moral claims, such as; Islam is violent, homophobic, pedophilic, etc. Yet to an intelligent person, this does not make sense; how do people without possession of any moral foundations have the audacity to make moral arguments in the first place?
 
 In short, there is something called "objective morality," and then there is "subjective morality." Subjectivity is opinion-based (e.g. "red is the best color"), whilst objectivity is fact checked (e.g. "2+2=4").
 
-Atheists do not have any objective morality in the first place. What atheism can only do is create subjective morality. Atheists are criticizing Islam based on their own subjective personal opinions. They might as well say:
+Atheists do not have any objective morality. What atheism can only do is create subjective morality; to command its adherents to follow each one's whims and desires. Atheists are criticizing Islam based on their own subjective personal opinions. They might as well say:
 > "I hate Islam because Muslims like the color green, but my favorite color is blue."
 
 Be not afraid of any of their moral judgements, because this be no different than the garbage they say currently, honestly.
@@ -29,15 +29,14 @@ Unsurprisingly, atheists explicitly disavow the connection between religion and 
 
 In point of fact, moral principles are not the product of this brain activity; they are derived from the innate disposition which is consistent with the religious accountability, that is to say moral inclinations can not emerge independently of religious intuitions. Accordingly, religion is a precondition for morality. It's therefore wrong to view the human being as a purely physical being and to explain his reality in exclusively materialistic terms, for if we analyze the human cerebral activity from a purely physical perspective it would be reduced to a mere exchange of ions and electrical charges on an atomic level.
 
-Interestingly, such a materialistic perspective can provide a rationale for even the most appalling crimes against humanity such as total genocide of the so called "lower races." For instance, Hitler admired America's rapid industrialization and growth which he attributed to the expulsion of indigenous people and the institution of slavery. So his plan was for Germany to emulate the United States by seizing large tracts of productive land by pushing the indigenous populations out and then employing slave labour to produce the food necessary to support industrialization and militarization, just as the United States had 
-done, because he ultimately considered mass murder as the only "rational" solution.
+Interestingly, such a materialistic perspective can provide a rationale for even the most appalling crimes against humanity such as total genocide of the so called "lower races." For instance, Hitler admired America's rapid industrialization and growth which he attributed to the expulsion of indigenous people and the institution of slavery. So his plan was for Germany to emulate the United States by seizing large tracts of productive land by pushing the "[Untermensch](<https://en.wikipedia.org/wiki/Untermensch>)" and the racially inferior populations out and then employing slave labour to produce the food necessary to support industrialization and militarization, just as the United States had done, because he ultimately considered mass murder as the only "rational" solution.
 
-Consequently, almost 300,000 people were killed in [Aktion T4](<https://wikipedia.org/wiki/Aktion_T4>) operations. Assuredly, Hitler and his Nazi government used the evolutionist idea, that the civilized races of man will certainly exterminate and replace the savage races through the world, to justify racism and militarism and to even support genocide. In other words, they believed that genocide was an inevitable result of the contact between peoples at different stages of cultural development, wherefore it is morally excusable because victims stood in the way of natural selection and the survival of the fittest.
+Consequently, people with smaller or bigger skulls than that of the "racially pure and superior person" were thrown in animal cages for display and public humiliation, persecuted, Holocausted, and even further going, almost 300,000 people were killed in the infamous [Aktion T4](<https://en.wikipedia.org/wiki/Aktion_T4>) operations. Assuredly, Hitler and his Nazi government used the evolutionist idea, that the civilized races of man will certainly exterminate and replace the savage races through the world, to justify racism and militarism and to even support genocide. In other words, they believed that genocide was an inevitable result of the contact between peoples at different stages of cultural development, wherefore it is morally excusable because victims stood in the way of natural selection and the survival of the fittest.
 
 In fact, atheists openly support abortion of embryos, without the slightest twinge of conscience, on the grounds of a purely materialistic analysis. As it happens, their rationale behind allowing the killing of those innocent babies is founded on the claim that "ontogeny recapitulates phylogeny," which was for many decades accepted as a natural law. In its strict sense it means that an organism, in the course of its development, goes through all the stages of those forms of life from which it has evolved (i.e. embryos pass through stages of their evolutionary history).
 
 According to the theory of recapitulation, the fetus is the common general embryonic form and the early stage of development that corresponds precisely to those of animals (fish and reptiles). Therefore, atheists argue that there is no harm in aborting fetuses. Analogously, it is possible, both materialistically and atheistically, to rationalize the annihilation of the entire human race, for it would be no different from the destruction of bacterial colonies. In a word, humans need religion to curb nature's vices and it is simply impossible for them to be moral without religious guidance. Despite the claim of the proponents of atheism, and that the brain knows right from wrong 
-and is responsible for moral judgment, it is impossible, without a valid religious foundation, to justify moral behavior on metaphysical grounds and thus to make a coherent case for abiding by moral standards. That's what the filthy rat, Richard Dawkins, claimed:
+and is responsible for moral judgment, it is impossible, without a valid religious foundation, to justify moral behavior on metaphysical grounds and thus to make a coherent case for abiding by moral standards. That's what Richard Dawkins claimed:
 <!-- tabs:start -->
 
 ### **<strong>The God Delusion (232) [^1] </strong>**
@@ -115,7 +114,7 @@ Atheists can't consistently use this logic without also abandoning atheism itsel
 ## 2. Hedonism
 A more outdated version of Mill's Harm Principle is heavily based on utilitarianism (i.e. maximizing net happiness in society). Hedonism, or pleasure seeking, is the basis for many liberal, feminist, and homosexual ethics. One of the strongest criticism of it is that it would allow gangrape, on the basis that a group of rapists would gain more total happiness than the victim gained any unhappiness such that the net happiness in the world has increased.
 
-This atheist logic of promoting hedonism also permits things like rape, bestiality, child molestation, and other sexual deviances. David Benatar, a known Atheist philosopher, explains that those who promote "sexual liberation" open the doors to rape as a "human right," now really:
+This atheist logic of promoting hedonism also permits things like rape, bestiality, child molestation, and other sexual deviances. David Benatar, a known atheist philosopher, explains that those who promote "sexual liberation" open the doors to rape as a "human right," now really:
 <!-- tabs:start -->
 
 ### **<strong>Abstract [^6] </strong>**
@@ -212,7 +211,7 @@ And, of course, we should not even need to explain why the behavior of animals s
 
 ***
 
-Atheism clearly has no morals.
+Atheism clearly has no morals, all it has are false claims; the universe just exploded into existence one day, for no reason at all, and we are just dust mites floating on an insignificant planet, and nothing matters, and we should all just hang оursеIνеs.
 
 Even their poor attempts to claim they have objective morals are easily refuted, not only by religious people, but by their own atheist academics, as well.
 

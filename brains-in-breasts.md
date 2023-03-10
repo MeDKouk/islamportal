@@ -26,10 +26,10 @@
 Allah (ﷻ) thinks that humans have their brains in their breasts.
 
 ## Refutation
-It's obviously a common figure of speech which we still use today. Have you not heard somebody ask "tell me what is in your heart," perhaps? Maybe not, nobody cares about you anyways.
+I'm going insane. It's obviously a common figure of speech which we still use today. Have you not heard somebody ask "tell me what is in your heart," perhaps? Maybe not, nobody cares about you anyways.
 
-It's not taken literally, it simply represents the innermost feelings, thoughts or secrets.
+It's not taken literally, it simply represents the innermost feelings, thoughts or secrets. Can you even show me, from all of the translations available, where it stated "humans think with their breasts"? Doubtful.
 
-Commentaries on this verse also show that the reference to "the breasts" is concerning the "innermost secrets." The Quran is not saying people have brains in their hearts, and the critic must take us for fools if he thinks people cannot see it as an idiom.
+Commentaries on this verse also show that the reference to "the breasts" is concerning the "innermost secrets." The Quran is not saying people have brains in their breasts, and the critic must take us for fools if he thinks people cannot see it as an idiom.
 
 The Quran is not in error, but the critic is being the unreasonable fool he keeps being. The mere thought about brains being inside chests to him is enough proof of his retardation.
