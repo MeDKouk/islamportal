@@ -2,7 +2,6 @@
    * [Atheism and Mathematics](atheism-and-mathematics.md)
    * [Atheism and Mentality](atheism-and-mentality.md)
    * [Atheism and Morality](atheism-and-morality.md)
-   * [Harms of Atheism](harms-of-atheism.md)
    * [The Problem of Evil](the-problem-of-evil.md)
 * **Christianity**
    * [Origins of the Solar Calendar](origins-of-the-solar-calendar.md)
