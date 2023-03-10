@@ -1,4 +1,4 @@
-# 👿 The Problem of Evil
+# 😈 The Problem of Evil
 <div class="dark-mode">
 
 ![BismillahDark](./Files/SVG/BismillahDark.svg 'In the name of Allah (ﷻ), Most Gracious, Most Merciful. :no-zoom')
@@ -10,7 +10,7 @@
 
 </div>
 
-## Allegation
+## Argumentation
 The world appears to contain states of affairs that are bad, undesirable, and should have been prevented by any being that could have done so. The existence of pure evil is incompatible with the existence of Allah (ﷻ).
 
 ## Refutation
