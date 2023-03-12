@@ -10,7 +10,7 @@
 
 </div>
 
-## Allegation
+## Contradiction
 > Is Iblis an angel or a jinn?
 ### An angel
 <!-- tabs:start -->

@@ -85,7 +85,7 @@ So why toil, stay up late, think, and work?Evil is an imperative necessity in t
 <!-- tabs:start -->
 
 ### **<strong>Muslim 8a</strong>**
-<h3><p style="text-align:center;">(الإِيمَانُ) أَنْ تُؤْمِنَ بِاللَّهِ وَمَلاَئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الآخِرِ وَتُؤْمِنَ بِ<mark>الْقَدَرِ خَيْرِهِ وَشَرِّهِ</mark>.‏</p></h3>
+<h3><p style="text-align:center;">؜(الإِيمَانُ) أَنْ تُؤْمِنَ بِاللَّهِ وَمَلاَئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الآخِرِ وَتُؤْمِنَ بِ<mark>الْقَدَرِ خَيْرِهِ وَشَرِّهِ</mark>.‏</p></h3>
 
 ***
 

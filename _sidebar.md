@@ -2,7 +2,6 @@
    * [Atheism and Mathematics](atheism-and-mathematics.md)
    * [Atheism and Mentality](atheism-and-mentality.md)
    * [Atheism and Morality](atheism-and-morality.md)
-   * [The Problem of Evil](the-problem-of-evil.md)
 * **Christianity**
    * [Origins of the Solar Calendar](origins-of-the-solar-calendar.md)
 * **Deceptive Tactics**
@@ -28,6 +27,7 @@
    * [Scaring Children](scaring-children.md)
    * [The Buraq](the-buraq.md)
    * [The Islamic World and Gay Porn](the-islamic-world-and-gay-porn.md)
+   * [The Problem of Evil](the-problem-of-evil.md)
    * [The Prophet (ﷺ) is a Fat Dwarf](the-prophet-is-a-fat-dwarf.md)
 * **Test**
    * [Test](test.md)

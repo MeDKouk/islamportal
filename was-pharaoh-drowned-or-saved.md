@@ -10,7 +10,7 @@
 
 </div>
 
-## Allegation
+## Contradiction
 > Was Pharaoh drowned or saved?
 
 ### Drowned

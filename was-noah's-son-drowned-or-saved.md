@@ -10,7 +10,7 @@
 
 </div>
 
-## Allegation
+## Contradiction
 > Was Noah's son drowned or saved?
 
 ### Drowned
